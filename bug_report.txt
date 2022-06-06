@@ -1,0 +1,28 @@
+Summary:
+Сreating a bug report.
+
+Project:
+git bash
+
+Component:
+Create bug_report.txt on the web interface
+
+Version:
+2.36.1
+
+Severity:
+S4 Minor
+
+Priority: 
+P3  (Low)
+
+Status: 
+New 
+
+Author:
+Unique01k
+
+Description:
+Create bug_report.txt
+Make Commit changes
+Modify the bug_report.txt file on the web interface, add a bug report in txt format
